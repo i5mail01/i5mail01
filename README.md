@@ -28,10 +28,10 @@
 
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i5mail01&show_icons=true&locale=en&layout=compact" alt="i5mail01" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i5mail01&show_icons=true&locale=en&layout=compact" alt="i5mail01" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i5mail01&show_icons=true&locale=en" alt="i5mail01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=i5mail01&show_icons=true&locale=en" alt="i5mail01" /></p>
 
 ***
 
