@@ -36,3 +36,7 @@
 ***
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i5mail01&" alt="i5mail01" /></p>
+
+***
+
+**Thanks for stopping by!!**
